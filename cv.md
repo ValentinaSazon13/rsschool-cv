@@ -8,7 +8,7 @@ Valentina Sazon
   * HTML
   * Java Skript
   * Git
-  * Visual Studio Code *
+  * Visual Studio Code 
  * About me  
  Purposeful, resouceful, open to new things, strive to do what i love
  * Education 
